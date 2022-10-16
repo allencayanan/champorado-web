@@ -12,8 +12,13 @@
 </head>
 
 <body>
-  <section class="container">
+  <section class="container mt-5">
     <h1 class="display-1">Champorado</h1>
+    <div class="row">
+      <div class="col-12">
+        <p>I like champorado.</p>
+      </div>
+    </div>
   </section>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
 
